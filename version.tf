@@ -1,3 +1,4 @@
+canarytest
 terraform {
   required_providers {
     aws = {
